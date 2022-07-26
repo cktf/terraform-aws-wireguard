@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/cktf/terraform-aws-wireguard/compare/1.0.0...1.0.1) (2022-07-26)
+
+
+### Bug Fixes
+
+* change dependency versions ([f21dccc](https://github.com/cktf/terraform-aws-wireguard/commit/f21dccce7641f81ae4f6e99a81e29cea7761a60a))
+
 # 1.0.0 (2022-07-19)
 
 

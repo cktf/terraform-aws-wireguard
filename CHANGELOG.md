@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/cktf/terraform-aws-wireguard/compare/1.0.1...1.0.2) (2022-07-28)
+
+
+### Bug Fixes
+
+* force all endings to LF ([b788403](https://github.com/cktf/terraform-aws-wireguard/commit/b788403619c764c4ca6faad8feb00f3e6f28dbb3))
+
 ## [1.0.1](https://github.com/cktf/terraform-aws-wireguard/compare/1.0.0...1.0.1) (2022-07-26)
 
 

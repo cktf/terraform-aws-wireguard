@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/cktf/terraform-aws-wireguard/compare/1.0.2...1.0.3) (2022-08-03)
+
+
+### Bug Fixes
+
+* add description to secgroup rules ([6a4b918](https://github.com/cktf/terraform-aws-wireguard/commit/6a4b91879642a1def3c4d2a7cb282e5d50c1149a))
+
 ## [1.0.2](https://github.com/cktf/terraform-aws-wireguard/compare/1.0.1...1.0.2) (2022-07-28)
 
 

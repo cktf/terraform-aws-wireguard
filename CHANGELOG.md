@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/cktf/terraform-aws-wireguard/compare/1.0.3...1.1.0) (2022-09-03)
+
+
+### Features
+
+* add linux support to terraform lock file ([1c32f6d](https://github.com/cktf/terraform-aws-wireguard/commit/1c32f6d1851ab0ab4e7e4d40f32f7b69c6a14304))
+
 ## [1.0.3](https://github.com/cktf/terraform-aws-wireguard/compare/1.0.2...1.0.3) (2022-08-03)
 
 

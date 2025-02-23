@@ -7,7 +7,7 @@ terraform {
     }
     wireguard = {
       source  = "ojford/wireguard"
-      version = "~> 0.2.1+1"
+      version = "~> 0.3.0"
     }
     aws = {
       source  = "hashicorp/aws"
